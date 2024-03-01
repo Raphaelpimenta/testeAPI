@@ -2,7 +2,6 @@ import React from "react";
 
 const CriarUser = () => {
 
-
     function enviar(){
         console.log("Testeeeeee")
 
@@ -29,7 +28,8 @@ const CriarUser = () => {
         });
 
 
-        console.log('Enviado!')
+        // console.log(x)
+        // console.log(dadosUsuario)
     }
 
     return (
